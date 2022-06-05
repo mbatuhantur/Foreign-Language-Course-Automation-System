@@ -1,0 +1,17 @@
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\bin\Debug\net5.0\FLCP.BusinessLogicLayer.deps.json
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\bin\Debug\net5.0\FLCP.BusinessLogicLayer.dll
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\bin\Debug\net5.0\ref\FLCP.BusinessLogicLayer.dll
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\bin\Debug\net5.0\FLCP.BusinessLogicLayer.pdb
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\bin\Debug\net5.0\FLCP.DataAccess.dll
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\bin\Debug\net5.0\FLCP.Entitiy.dll
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\bin\Debug\net5.0\FLCP.DataAccess.pdb
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\bin\Debug\net5.0\FLCP.Entitiy.pdb
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\obj\Debug\net5.0\FLCP.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\obj\Debug\net5.0\FLCP.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\obj\Debug\net5.0\FLCP.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\obj\Debug\net5.0\FLCP.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\obj\Debug\net5.0\FLCP.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\obj\Debug\net5.0\FLCP.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\obj\Debug\net5.0\FLCP.BusinessLogicLayer.dll
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\obj\Debug\net5.0\ref\FLCP.BusinessLogicLayer.dll
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.BusinessLogicLayer\obj\Debug\net5.0\FLCP.BusinessLogicLayer.pdb

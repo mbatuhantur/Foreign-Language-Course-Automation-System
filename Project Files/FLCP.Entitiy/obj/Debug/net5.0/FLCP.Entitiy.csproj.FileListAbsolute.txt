@@ -1,0 +1,11 @@
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.Entitiy\bin\Debug\net5.0\FLCP.Entitiy.deps.json
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.Entitiy\bin\Debug\net5.0\FLCP.Entitiy.dll
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.Entitiy\bin\Debug\net5.0\ref\FLCP.Entitiy.dll
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.Entitiy\bin\Debug\net5.0\FLCP.Entitiy.pdb
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.Entitiy\obj\Debug\net5.0\FLCP.Entitiy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.Entitiy\obj\Debug\net5.0\FLCP.Entitiy.AssemblyInfoInputs.cache
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.Entitiy\obj\Debug\net5.0\FLCP.Entitiy.AssemblyInfo.cs
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.Entitiy\obj\Debug\net5.0\FLCP.Entitiy.csproj.CoreCompileInputs.cache
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.Entitiy\obj\Debug\net5.0\FLCP.Entitiy.dll
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.Entitiy\obj\Debug\net5.0\ref\FLCP.Entitiy.dll
+C:\Users\bymeh\Desktop\ForeignLanguageCourseProject\ForeignLanguageCourseProject\FLCP.Entitiy\obj\Debug\net5.0\FLCP.Entitiy.pdb
